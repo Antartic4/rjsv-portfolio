@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Full Stack Software Engineer",
+    "organization": "Peravia Industrial S.A.",
+    "startDate": "Jan, 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Led FullStack Calidad V2.0, improving engagement by 100%.",
+      "Cut processing time by 50% with new data analysis tools.",
+      "Enhanced navigation with user-centric design.",
+      "NextAuth."
+    ],
+    "imageSrc": "history/lafam.png"
+  },
+  {
+    "role": "Backend Software Engineer",
+    "organization": "Peravia Industrial S.A.",
+    "startDate": "July, 2017",
+    "endDate": "Dec, 2020",
+    "experiences": [
+      "Enhanced user experience and workflows in Siembra V2.0 (C#, MSSQL) with Agile methods.",
+      "Boosted Siembra V2.0 performance with innovative solutions and database expertise.",
+      "Worked effectively with a cross-functional team."
+    ],
+    "imageSrc": "history/lafam.png"
+  }
+]
