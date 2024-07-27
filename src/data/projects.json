@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Next.js CV",
+    "imageSrc": "projects/rjsv-cv.png",
+    "description": "This project was made to display a version of my CV online.",
+    "skills": ["React", "Next.JS", "Typescript", "Tailwind-CSS"],
+    "demo": "https://rjsv-cv-production.up.railway.app/",
+    "source": "https://github.com/Antartic4/rjsv-cv"
+  },
+  {
+    "title": "Mocktest",
+    "imageSrc": "projects/mocktest.png",
+    "description": "This was made pixel-perfectly with the task's Image.",
+    "skills": ["React", "Typescript", "Tailwind-CSS", "Jest"],
+    "demo": "https://rjsv-mocktest.vercel.app/",
+    "source": "https://github.com/Antartic4/rjsv-mocktest/"
+  }
+]
